@@ -4,8 +4,11 @@
   "entries": [
     { "number": "+39 02 8991234", "reason": "Tariffazione speciale", "rank": 50},
     { "number": "+44 791 1123456", "reason": "Segnalazioni multiple", "rank": 70 },
-    { "number": "+39 999 999999", "reason": "Segnalazione MDN", "rank": 90 },
+    { "number": "+39 999 999999", "reason": "Admin", "rank": 90 },
+    { "number": "+39 035 310675", "reason": "TRUFFA", "rank": 100 },
+    { "number": "+39 0472 766600", "reason": "TRUFFA", "rank": 95},
+    { "number": "+44 777 777777", "reason": "Segnalazioni multiple", "rank": 20 },
+    { "number": "+39 888 888888", "reason": "Segnalazioni multiple", "rank": 60 },
     { "number": "+39 035 310675", "reason": "TRUFFA", "rank": 100 }
-  
   ]
 }
