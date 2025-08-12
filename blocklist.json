@@ -2,10 +2,10 @@
   "version": 1,
   "updatedAt": "2025-08-12T10:00:00Z",
   "entries": [
-    { "number": "+39 02 8991234", "reason": "Tariffazione speciale" },
-    { "number": "+44 791 1123456", "reason": "Segnalazioni multiple" },
-    { "number": "+39 999 999999", "reason": "Segnalazione MDN" },
-    { "number": "+39 035 310675", "reason": "TRUFFA" }
+    { "number": "+39 02 8991234", "reason": "Tariffazione speciale", "rank": 50},
+    { "number": "+44 791 1123456", "reason": "Segnalazioni multiple", "rank": 70 },
+    { "number": "+39 999 999999", "reason": "Segnalazione MDN", "rank": 90 },
+    { "number": "+39 035 310675", "reason": "TRUFFA", "rank": 100 }
   
   ]
 }
