@@ -3,7 +3,7 @@
   "updatedAt": "2025-08-12T10:00:00Z",
   "entries": [
     { "number": "+39028991234", "reason": "Tariffazione speciale" },
-    { "number": "+447911123456", "reason": "Segnalazioni multiple" }
+    { "number": "+447911123456", "reason": "Segnalazioni multiple" },
     { "number": "+39999999999", "reason": "Segnalazione MDN" }
   ]
 }
